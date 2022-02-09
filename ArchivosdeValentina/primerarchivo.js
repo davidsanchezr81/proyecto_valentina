@@ -1,1 +1,1 @@
-// Comentario en archivo js
+// Comentario
